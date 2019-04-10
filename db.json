@@ -50,7 +50,7 @@
     }
     
   ],
-  "Apps":[
+  "apps":[
         {
           "id": 1,
           "machineId": 1,
