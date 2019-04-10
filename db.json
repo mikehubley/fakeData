@@ -28,52 +28,52 @@
   "Apps":[
         {
           "id": 1,
-          "machineId": 1
+          "machineId": 1,
           "name": "App 1"
         },
         {
           "id": 2,
-          "machineId": 1
+          "machineId": 1,
           "name": "App 2"
         },
         {
           "id": 3,
-          "machineId": 1
+          "machineId": 1,
           "name": "App 3"
         },
         {
           "id": 4,
-          "machineId": 1
+          "machineId": 1,
           "name": "App 4"
         },
         {
           "id": 5,
-          "machineId": 2
+          "machineId": 2,
           "name": "App 1"
         },
         {
           "id": 6,
-          "machineId": 2
+          "machineId": 2,
           "name": "App 2"
         },
         {
           "id": 7,
-          "machineId": 2
+          "machineId": 2,
           "name": "App 3"
         },
         {
           "id": 8,
-          "machineId": 3
+          "machineId": 3,
           "name": "App 1"
         },
         {
           "id": 9,
-          "machineId": 3
+          "machineId": 3,
           "name": "App 2"
         },
         {
           "id": 10,
-          "machineId": 3
+          "machineId": 3,
           "name": "App 4"
         }
       ]
