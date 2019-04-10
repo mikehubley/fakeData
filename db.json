@@ -1,0 +1,82 @@
+{
+  "machines":[
+    {
+      "id":1,
+      "name": "d123456",
+      "type": "physical",
+      "online": true,
+      "ip": "1.1.1.1",
+      "os": "Windows 10",
+      "Apps":[
+        {
+          "id": 1,
+          "name": "App 1"
+        },
+        {
+          "id": 2,
+          "name": "App 2"
+        },
+        {
+          "id": 3,
+          "name": "App 3"
+        },
+        {
+          "id": 4,
+          "name": "App 4"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name": "d123457",
+      "type": "physical",
+      "online": true,
+      "ip": "1.1.1.1",
+      "os": "Windows 10",
+      "Apps":[
+        {
+          "id": 1,
+          "name": "App 1"
+        },
+        {
+          "id": 2,
+          "name": "App 2"
+        },
+        {
+          "id": 3,
+          "name": "App 3"
+        },
+        {
+          "id": 4,
+          "name": "App 4"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name": "d123458",
+      "type": "physical",
+      "online": true,
+      "ip": "1.1.1.1",
+      "os": "Windows 10",
+      "Apps":[
+        {
+          "id": 1,
+          "name": "App 1"
+        },
+        {
+          "id": 2,
+          "name": "App 2"
+        },
+        {
+          "id": 3,
+          "name": "App 3"
+        },
+        {
+          "id": 4,
+          "name": "App 4"
+        }
+      ]
+    }
+  ]
+}
